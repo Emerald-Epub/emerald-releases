@@ -1,0 +1,8 @@
+[Flatpak Ref]
+Title=Emerald
+Name=io.github.richard34fs.Emerald
+Branch=stable
+Url=https://richard34fs.github.io/emerald-releases/repo/
+IsRuntime=false
+GPGKey=mDMEas3RIBYJKwYBBAHaRw8BAQdAHdINSwQX5r/Zl3tFYp6UKxdfQcJuFJnXs2mPf2lPanW0LUVtZXJhbGQgRmxhdHBhayA8cmljaGFyZGZhY2luc291emFAZ21haWwuY29tPoiTBBMWCgA7FiEEJKa22OPoCldTnnkoVNChCdGtwKgFAmrN0SACGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQVNChCdGtwKhSwwEAy3NBQ8AQHd9pYtjobIVVouo9kaFiv1NhtpDt1U+cx80BAMAOmOfRarW8es8jnS1W8Ktndlq+y9v2onby6fwPA0sG
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
